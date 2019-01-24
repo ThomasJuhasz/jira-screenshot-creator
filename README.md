@@ -4,4 +4,4 @@ install node
 
 npm i
 
-node screenshot-creator-2000.js
+node jira-screenshot-creator.js
