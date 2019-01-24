@@ -1,0 +1,14 @@
+{
+  "name": "auto-screenshots",
+  "version": "1.0.0",
+  "description": "tool to create screenshots from a list of jira tasks",
+  "main": "screenshot-creator-2000.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
